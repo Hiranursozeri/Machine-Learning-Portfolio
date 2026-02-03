@@ -12,7 +12,7 @@ Mantarların yapısal özelliklerini analiz ederek zehirli veya yenilebilir oldu
 
 ### 💰 Kamu Personeli Maaş Tahmini (`maas_tahmini`)
 Yükseköğretim çalışanlarının verileri üzerinden regresyon modelleri ile maaş tahmini yapar.
-* **Modeller:** Lineer ve Çoklu Regresyon.
+* **Modeller:** KNN, Lineer ve Çoklu Regresyon.
 * **Veri:** higher_ed_employee_salaries.csv.
 
 ## 🛠️ Teknik Araçlar
