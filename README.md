@@ -1,4 +1,4 @@
-# Machine-Learning-Portfolio Aı
+# Machine-Learning-Portfolio 
 
 Bu depo, veri bilimi ve makine öğrenimi alanındaki calismalari içermektedir.
 
